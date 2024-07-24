@@ -31,48 +31,66 @@
 #### Network Protocol
 
 1. **Server Sent Events**: 
-   Real Time Movement of the cars
-	EndPoint :- sse/cars
-```js
-interface Irequest{
-	zoomLevel: number,
-	bounding-box:{
-		topleft:{
+   1. Real Time Movement of the cars
+		 EndPoint :- sse/cars
+	```js
+	interface Irequest{
+		zoomLevel: number,
+		bounding-box:{
+			topleft:{
 			lat:, 
 			lan:
-		},
-		bottomRight:{
-			lat:, 
-			lan:
+				},
+			bottomRight:{
+				lat:, 
+				lan:
+			}
 		}
 	}
-}
 
-interface Iresponse{
-	data:[
-		cars:{
-			id: string,
-			type: CarType,
-			lat: number,
-			lng: number
-		}
-	]
-}
-```
+	interface Iresponse{
+		data:[
+			cars:{
+				id: string,
+				type: CarType,
+				lat: number,
+				lng: number
+			}
+		]
+	}
+	```
 
 
--- Status Before accepting ride 
+2. Status Before accepting ride 
 		end Point - sse/request-updates/:rideId
-		```ts
+		```
 		interface Iresponse{
-			data:[
-				cars:{
-					id: string,
-					type: CarType,
-					lat: number,
-					lng: number
-				}
-			]
+			status: Accepted | Declined
+			 driverId: string
+			 estimatedTime: Date
 		}
 		```
-	
+3. Live Tracking during ride
+		endPoint :- sse/car-tracking/:rideId
+```js
+	interface Irequest{
+		curLat: number,
+		curlan: number,
+		zoomLevel: number
+		
+
+	```
+
+#### WebSocket
+1. Driver -user communication
+	1. end point - ws/user-chat/:rideId
+```js
+	interface Iresponse{
+		message:{
+			id: string,
+			timestamp: Date,
+			message: string
+		}
+		
+
+	```
