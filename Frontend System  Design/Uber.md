@@ -27,3 +27,52 @@
 3. Integrate with existing map services
 4. use setDirection from google map to show path from start to end destination.
 5. Set language in the header
+
+#### Network Protocol
+
+1. **Server Sent Events**: 
+   Real Time Movement of the cars
+	EndPoint :- sse/cars
+```js
+interface Irequest{
+	zoomLevel: number,
+	bounding-box:{
+		topleft:{
+			lat:, 
+			lan:
+		},
+		bottomRight:{
+			lat:, 
+			lan:
+		}
+	}
+}
+
+interface Iresponse{
+	data:[
+		cars:{
+			id: string,
+			type: CarType,
+			lat: number,
+			lng: number
+		}
+	]
+}
+```
+
+
+-- Status Before accepting ride 
+		end Point - sse/request-updates/:rideId
+		```ts
+		interface Iresponse{
+			data:[
+				cars:{
+					id: string,
+					type: CarType,
+					lat: number,
+					lng: number
+				}
+			]
+		}
+		```
+	
