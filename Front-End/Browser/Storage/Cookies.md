@@ -30,7 +30,14 @@ document.cookie
 3. **Security**: can be used in [[XSS]] and [[CSRF]]
 
 ### **Common Uses**
+---
+
+
 
 - **Session Management**: Maintaining user sessions and authentication states.
 - **User Preferences**: Storing user-specific settings or themes.
 - **Tracking**: Tracking user behavior and analytics.
+
+### Notes
+---
+
