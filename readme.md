@@ -41,9 +41,14 @@ I am dedicating 3 hours daily to Data Structures and Algorithms (DSA) and 3 hour
 
 ### System Design
 
-- [Notes](path/to/system-design/notes)
-- [Resources](path/to/system-design/resources)
-- [Solved Questions](path/to/system-design/solved-questions)
+1. ##### Frontend system design
+   - [Notes](path/to/system-design/notes)
+   - [Resources](path/to/system-design/resources)
+   - [Solved Questions](path/to/system-design/solved-questions)
+2. ##### Backend system design
+   - [Notes](path/to/system-design/notes)
+   - [Resources](path/to/system-design/resources)
+   - [Solved Questions](path/to/system-design/solved-questions)
 
 ### Backend Development
 
@@ -86,8 +91,7 @@ I am dedicating 3 hours daily to Data Structures and Algorithms (DSA) and 3 hour
 
 This section includes links and resources that help keep me motivated, such as study plans, success stories, and strategies.
 
-- [Motivational Resource 1](link/to/motivational/resource1)
-- [Motivational Resource 2](link/to/motivational/resource2)
+- [How to Prepare Yourself For Data Structures and Algorithms Interviews at FAANG](https://hackernoon.com/how-to-prepare-yourself-for-data-structures-and-algorithms-interviews-at-faang-mm23316l)
 
 ## Contributing
 
