@@ -4,7 +4,6 @@ This is the main entry point for my notes. Below, you'll find links to each sect
 
 ## Sections
 
-### Notes 
 * [DSA](Google%20Prep%20Notes/Notes/Data%20Structures%20and%20Algorithms/index.md)
 * [Frontend](frontend/index.md)
 * [Backend](backend/index.md)
@@ -13,9 +12,6 @@ This is the main entry point for my notes. Below, you'll find links to each sect
 * [OOPS](oops/index.md)
 * [System Design](system-design/index.md)
 * [Distributed Systems](distributed-systems/index.md)
-
-### Resources
-- [Articles](Resources/index.md)
 
 ## Weekly Schedule
 
