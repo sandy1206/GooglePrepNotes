@@ -23,7 +23,7 @@ Welcome to my interview preparation repository! This repository is dedicated to 
 
 ## Introduction
 
-I am dedicating 3 hours daily to Data Structures and Algorithms (DSA) and 3 hours to other topics, with a total preparation time of 180 days. This repository contains my notes, resources, and solved questions to help me stay organized and consistent.
+I am dedicating 6+ hours daily to Data Structures and Algorithms (DSA) and 3 hours to other topics, with a total preparation time of 180 days. This repository contains my notes, resources, and solved questions to help me stay organized and consistent.
 
 ## Preparation Strategy
 
