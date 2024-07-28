@@ -266,3 +266,7 @@ class CircularQueue {
 }
 
 ```
+
+## Priority Queue
+> Priority queue is just a min or max heap implemented using either Linked list or array
+>
