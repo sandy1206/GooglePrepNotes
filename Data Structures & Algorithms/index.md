@@ -4,6 +4,11 @@ Welcome to my Data Structures and Algorithms study guide! This repository contai
 
 ---
 
+## Table Of Contents
+- [Data Structures & Algorithms](#data-structures)
+- [Algorithms](#algorithms)
+- [Problems Solved](#problems-solved)
+
 ## Data Structures
 
 1. **Arrays**
