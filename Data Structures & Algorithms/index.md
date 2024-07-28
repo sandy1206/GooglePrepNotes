@@ -20,7 +20,7 @@ Welcome to my Data Structures and Algorithms study guide! This repository contai
    - Implementation using arrays
    - Implementation using linked lists
 5. **Queues**
-   - [Simple queue](ueue.md#simple)
+   - [Simple queue](queue.md#simple-queue)
    - Circular queue
    - Priority queue
    - Deque (double-ended queue)
