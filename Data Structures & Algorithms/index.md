@@ -21,9 +21,9 @@ Welcome to my Data Structures and Algorithms study guide! This repository contai
    - Implementation using linked lists
 5. **Queues**
    - [Simple queue](queue.md#simple-queue)
-   - Circular queue
-   - Priority queue
-   - Deque (double-ended queue)
+   - [Circular queue](queue.md#circular-queue)
+   - [Priority queue](queue.md#priority-queue)
+   - [Deque (double-ended queue)](queue.md#deque)
 6. **Hash Tables**
    - Hash maps
    - Hash sets

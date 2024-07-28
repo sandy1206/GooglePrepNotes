@@ -1,53 +1,72 @@
-
-class CircularQueue {
-	constructor(size) {
-		this.size = size;
-		this.queue = new Array(size);
-		this.rear = -1;
-		this.front = -1;
+class MinHeap{
+	constructor(size){
+		this.heap=new Array();
+		this.size=size;
+		this.length=0;
 	}
 
-	isFull() {
-		return (this.rear + 1) % this.size == this.front;
+	insert(item){
+		if(this.length==this.size)return "heap is full";
+		this.heap.push(item);
+		this.length++;
+		this.heapUp();
 	}
-	isEmpty() {
-		return this.front === -1;
+
+	fetchMin(){
+		if(!this.length) return "heap is empty";
+		let output=this.heap[0];
+		let replace= this.heap.pop();
+		this.heap[0]= replace;
+		this.heapDown(0)
+		return output;
 	}
-	enqueue(item) {
-		if (this.isFull()) return "queue is full"
-		if (this.isEmpty()) {
-			this.front = 0;
+
+	getParent(index){
+		return (index+1)/2
+	}
+
+	getLeftChild(index){
+		return (index*2)+1;
+	}
+
+	getRightChild(index){
+		return (index*2)+2;
+	}
+
+	heapUp(){
+		let currItem = this.heap.length-1;
+		while (this.heap[currItem] < this.heap[this.getParent(currItem)] && currItem>0){
+			[this.heap[currItem], this.heap[this.getParent(currItem)]] = [this.heap[this.getParent(currItem)], this.heap[currItem]];
+			currItem= this.getParent(currItem);
 		}
-		this.rear = (this.rear + 1) % this.size;
-		this.queue[this.rear] = item
 	}
 
-	dequeue() {
-		if (this.isEmpty()) return "queue is empty";
-		let item = this.queue[this.front];
-
-		if (this.front === this.rear) {
-			this.front = this.rear = -1;
-		} else {
-			this.front = (this.front + 1) % this.size;
+	heapDown(index){
+		let leftChild= this.getLeftChild(index);
+		let rightChild= this.getRightChild(index);
+		while(this.heap[index]>this.heap[leftChild] || this.heap[index]>this.heap[rightChild]){
+			if(this.heap[index]>this.heap[leftChild] && this.heap[index]<this.heap[rightChild]){
+				[this.heap[index], this.heap[leftChild]] = [this.heap[leftChild], this.heap[index]];
+				this.heapDown(leftChild)
+			}
+			else if(this.heap[index]>this.heap[rightChild]){
+				[this.heap[index], this.heap[rightChild]] = [this.heap[rightChild], this.heap[index]];
+				this.heapDown(rightChild)
+			}
 		}
-		return item;
 	}
 }
 
-const Test = new CircularQueue(5);
-Test.enqueue(1);
-Test.enqueue(2);
-Test.enqueue(3);
-Test.enqueue(4);
-Test.enqueue(5);
-Test.enqueue(6);
-console.log(Test);
-console.log(Test.dequeue())
-console.log(Test.dequeue())
-console.log(Test.dequeue())
-console.log(Test.dequeue())
-console.log(Test.dequeue())
-Test.enqueue(6);
-Test.enqueue(7);
-console.log(Test);
+
+let test= new MinHeap(5);
+console.log(test);
+test.insert(10);
+test.insert(5);
+test.insert(11);
+test.insert(1);
+test.insert(0);
+// console.log(test.fetchMin())
+
+
+
+console.log(test);
