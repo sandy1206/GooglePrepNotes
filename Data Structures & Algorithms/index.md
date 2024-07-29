@@ -41,7 +41,7 @@ Welcome to my Data Structures and Algorithms study guide! This repository contai
    - Fenwick (Binary Indexed) trees
    - Trie (prefix tree)
 8. **Heaps**
-   - Min-heap
+   - [Min-heap](./Heap/minHeap.js)
    - Max-heap
 9. **Graphs**
    - Adjacency matrix
