@@ -6,8 +6,8 @@
 3. [AVL Trees](#avl-trees)
 4. [Red-Black Trees](#red-black-trees)
 5. [Segment Trees](#segment-trees)
-6. [Fenwick (Binary Indexed) Trees](#fenwick-trees)
-7. [Trie (Prefix Tree)](#trie)
+6. [Fenwick (Binary Indexed) Trees](#fenwick-binary-indexed-trees)
+7. [Trie (Prefix Tree)](#trie-prefix-tree)
 
 ---
 
@@ -72,8 +72,7 @@ class BinaryTree {
 
 * * * * *
 
-Binary Search Trees
--------------------
+## Binary Search Trees
 
 ### Introduction
 
@@ -147,8 +146,7 @@ class BinarySearchTree {
 ```
 * * * * *
 
-AVL Trees
----------
+## AVL Trees
 
 ### Introduction
 
@@ -256,8 +254,7 @@ class AVLTree {
 ```
 * * * * *
 
-Red-Black Trees
----------------
+## Red-Black Trees
 
 ### Introduction
 
@@ -347,8 +344,8 @@ class RedBlackTree {
 
 * * * * *
 
-Segment Trees
--------------
+## Segment Trees
+
 
 ### Introduction
 
@@ -417,8 +414,7 @@ class SegmentTree {
 
 * * * * *
 
-Fenwick (Binary Indexed) Trees
-------------------------------
+## Fenwick (Binary Indexed) Trees
 
 ### Introduction
 
@@ -460,8 +456,7 @@ class FenwickTree {
 
 * * * * *
 
-Trie (Prefix Tree)
-------------------
+## Trie (Prefix Tree)
 
 ### Introduction
 
