@@ -152,12 +152,11 @@ Welcome to my Data Structures and Algorithms study guide! This repository contai
 - [Problem 2](link_to_problem_2)
 
 ### Stacks
-- [Problem 1](link_to_problem_1)
-- [Problem 2](link_to_problem_2)
+- [Stack Implementation using 2 queues](./Solved/Stack/Stack%20using%20two%20queue.js)
+- [Unix Path Simplify](./Solved/Stack/unix%20path%20simplify.js)
 
 ### Queues
-- [Problem 1](link_to_problem_1)
-- [Problem 2](link_to_problem_2)
+- [Queue Implementation using 2 stack](./Solved/Queue/Queue%20using%20two%20stack.js)
 
 ### Hash Tables
 - [Problem 1](link_to_problem_1)
