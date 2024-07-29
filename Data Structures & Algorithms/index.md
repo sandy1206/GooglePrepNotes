@@ -33,13 +33,13 @@ Welcome to my Data Structures and Algorithms study guide! This repository contai
    - Hash maps
    - Hash sets
 7. **Trees**
-   - Binary trees
-   - Binary search trees
-   - AVL trees
-   - Red-black trees
-   - Segment trees
-   - Fenwick (Binary Indexed) trees
-   - Trie (prefix tree)
+   - [Binary trees](./tree.md#binary-trees)
+   - [Binary search trees](./tree.md#binary-search-trees)
+   - [AVL trees](./tree.md#avl-trees)
+   - [Red-black trees](./tree.md#red-black-trees)
+   - [Segment trees](./tree.md#segment-trees)
+   - [Fenwick (Binary Indexed) trees](./tree.md#fenwick-binary-indexed-trees)
+   - [Trie (prefix tree)](./tree.md#trie-prefix-tree)
 8. **Heaps**
    - [Min-heap](./Heap/minHeap.js)
    - Max-heap
