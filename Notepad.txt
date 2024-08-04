@@ -4,4 +4,4 @@ so any write happen to masteer will be sync with read DB. this is vertical scali
 but there is a limit on how much we can scale vertically , so we need horizontal scale.
 so we can add more severs whhich will divide the load and this is what sharding is but sharding and partinating go hand in hand,
 so whenever we shard we can also partition , so shard is at DB level and partition is at data level.
-one shard can have multiple partition
+one shard can have multiple partition.
