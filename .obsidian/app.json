@@ -2,5 +2,6 @@
   "promptDelete": false,
   "alwaysUpdateLinks": false,
   "useMarkdownLinks": false,
-  "attachmentFolderPath": "99 - Public"
+  "attachmentFolderPath": "99 - Public",
+  "newFileLocation": "current"
 }

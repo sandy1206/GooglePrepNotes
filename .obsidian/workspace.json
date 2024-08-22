@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ec774e43eb0497c1",
+        "id": "1590f6aeea59c14b",
         "type": "tabs",
         "children": [
           {
-            "id": "27ebb6a10f181551",
+            "id": "239683bfed136dec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Frontend/Frontend.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#frontend",
+                "query": "tag:#test",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Frontend/Frontend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Frontend/Frontend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02 - Frontend/Frontend.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,12 +165,19 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "27ebb6a10f181551",
+  "active": "239683bfed136dec",
   "lastOpenFiles": [
+    "02 - Frontend/Typescript/Generics.md",
+    "02 - Frontend/Typescript/Typescript.md",
+    "02 - Frontend/Typescript/Primitive Types.md",
+    "02 - Frontend/Typescript/Core Concepts.md",
+    "02 - Frontend/Typescript",
+    "02 - Frontend/Premitive Types.md",
+    "02 - Frontend/Javascript.md",
+    "02 - Frontend/Frontend.md",
     "01 - Data Structures & Algorithms/Data Structures & Algorithms.md",
     "99 - Public/Main Page.md",
     "99 - Public/{{title}}.md",
-    "02 - Frontend/Frontend.md",
     "Start.md",
     "testing.md",
     "99 - Public/Help.md",
@@ -196,7 +195,6 @@
     "GooglePrepNotes/start.md",
     "GooglePrepNotes",
     "Notes/Start.md",
-    "99 - Excalidraw",
     "Excalidraw/Drawing 2024-08-22 09.39.21.excalidraw.md",
     "Notes/01 - what.md",
     "Notes/Notes.md",
