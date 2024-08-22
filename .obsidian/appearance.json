@@ -1,0 +1,8 @@
+{
+  "cssTheme": "Things",
+  "monospaceFontFamily": "Fira Code",
+  "textFontFamily": "JetBrains Mono NL",
+  "enabledCssSnippets": [
+    "Colored Sidebar Items"
+  ]
+}
