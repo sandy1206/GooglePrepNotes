@@ -6,5 +6,7 @@
   "obsidian-linter",
   "obsidian-spaced-repetition",
   "obsidian-git",
-  "tag-wrangler"
+  "tag-wrangler",
+  "url-into-selection",
+  "obsidian-admonition"
 ]

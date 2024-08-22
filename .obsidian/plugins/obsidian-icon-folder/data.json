@@ -6,7 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiAirVent"
+      "LiAppWindow",
+      "LiAlignHorizontalDistributeCenter",
+      "LiAlbum",
+      "LiAward",
+      "LiBadgeAlert"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -28,5 +32,13 @@
     "iconIdentifier": ":",
     "lucideIconPackType": "native",
     "debugMode": false
-  }
+  },
+  "01 - Data Structures & Algorithms": "LiBackpack",
+  "02 - Frontend": "LiAtom",
+  "03 - Backend": "LiApple",
+  "04 - Object Oriented Designs": "LiBadgeAlert",
+  "07 - Interviews": "LiAward",
+  "08 - Articles": "LiAlbum",
+  "05 - Networks": "LiAlignHorizontalDistributeCenter",
+  "06 - DBMS": "LiAppWindow"
 }

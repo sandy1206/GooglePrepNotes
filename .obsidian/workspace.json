@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "50094741112fb557",
+        "id": "ec774e43eb0497c1",
         "type": "tabs",
         "children": [
           {
-            "id": "a0d98594f58b6abb",
+            "id": "27ebb6a10f181551",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-22 09.43.33.excalidraw.md"
+                "file": "02 - Frontend/Frontend.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -46,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#frontend",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,7 +66,7 @@
             }
           },
           {
-            "id": "e9299b310c65e941",
+            "id": "c6bbbcb0484c18f8",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-22 09.43.33.excalidraw.md",
+                "file": "02 - Frontend/Frontend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-22 09.43.33.excalidraw.md",
+                "file": "02 - Frontend/Frontend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-22 09.43.33.excalidraw.md"
+                "file": "02 - Frontend/Frontend.md"
               }
             }
           },
@@ -171,25 +173,35 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a0d98594f58b6abb",
+  "active": "27ebb6a10f181551",
   "lastOpenFiles": [
+    "01 - Data Structures & Algorithms/Data Structures & Algorithms.md",
+    "99 - Public/Main Page.md",
+    "99 - Public/{{title}}.md",
+    "02 - Frontend/Frontend.md",
+    "Start.md",
+    "testing.md",
+    "99 - Public/Help.md",
+    "Tags",
+    "99 - Public",
+    "08 - Articles",
+    "07 - Interviews",
+    "06 - DBMS",
+    "05 - Networks",
+    "04 - Object Oriented Designs",
+    "03 - Backend",
+    "02 - Frontend/Drawing 2024-08-22 09.53.56.excalidraw.md",
+    "99 - Excalidraw/Drawing 2024-08-22 09.53.35.excalidraw.md",
+    "Excalidraw/Drawing 2024-08-22 09.43.33.excalidraw.md",
     "GooglePrepNotes/start.md",
     "GooglePrepNotes",
     "Notes/Start.md",
-    "Excalidraw/Drawing 2024-08-22 09.43.33.excalidraw.md",
-    "Excalidraw",
-    "02 - Frontend",
-    "01 - Data Structures & Algorithms",
+    "99 - Excalidraw",
     "Excalidraw/Drawing 2024-08-22 09.39.21.excalidraw.md",
     "Notes/01 - what.md",
     "Notes/Notes.md",
     "Notes/start.md",
     "Notes/Select Note.md",
-    "Notes",
-    "Tags",
-    "Welcome.md",
-    "00 - Maps/01 - Maps",
-    "00 - Maps",
-    "04 one"
+    "Welcome.md"
   ]
 }
