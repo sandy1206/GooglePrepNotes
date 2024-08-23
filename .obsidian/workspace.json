@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Frontend/Typescript/Generics.md",
+                "file": "08 - Articles/Articles.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Frontend/Typescript/Generics.md",
+                "file": "08 - Articles/Articles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Frontend/Typescript/Generics.md",
+                "file": "08 - Articles/Articles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Frontend/Typescript/Generics.md"
+                "file": "08 - Articles/Articles.md"
               }
             }
           },
@@ -173,13 +173,19 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "239683bfed136dec",
+  "active": "1fdf220bdb0c9cb6",
   "lastOpenFiles": [
     "Start.md",
+    "08 - Articles/Articles.md",
+    "07 - Interviews/Interviews.md",
+    "06 - DBMS/DBMS.md",
+    "05 - Networks/Networks.md",
+    "04 - Object Oriented Designs/Object Oriented Designs.md",
+    "03 - Backend/Backend.md",
+    "02 - Frontend/Typescript/Generics.md",
     "02 - Frontend/Frontend.md",
     "02 - Frontend/Javscript",
     "02 - Frontend/Javscript/Javascript.md",
-    "02 - Frontend/Typescript/Generics.md",
     "02 - Frontend/Typescript/Typescript.md",
     "02 - Frontend/Typescript/Primitive Types.md",
     "02 - Frontend/Typescript/Core Concepts.md",
@@ -204,10 +210,6 @@
     "GooglePrepNotes/start.md",
     "Notes/Start.md",
     "Excalidraw/Drawing 2024-08-22 09.39.21.excalidraw.md",
-    "Notes/01 - what.md",
-    "Notes/Notes.md",
-    "Notes/start.md",
-    "Notes/Select Note.md",
-    "Welcome.md"
+    "Notes/01 - what.md"
   ]
 }
