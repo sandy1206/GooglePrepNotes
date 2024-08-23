@@ -1,5 +1,5 @@
 Date - 2024-08-22  |  Time - 12:33
-Tags: #test 
+Tags: #test #flashcards
 
 ## Table Of Contents
 
