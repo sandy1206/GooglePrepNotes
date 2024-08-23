@@ -73,3 +73,7 @@ const todo: TodoPreview = {
 	completed: false,
 };
 ```
+
+### Omit <Type, Keys >
+
+Construct a type by picking all properties from Type and then omitting mentioned 

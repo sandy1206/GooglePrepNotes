@@ -18,3 +18,13 @@ Tags: #typescript #frontend
 12. [[Fetch]]
 13. [[Misc Concepts]]
 
+
+> [!seealso] Links
+
+
+| Name                     | Topic | Link                                              |
+| ------------------------ | ----- | ------------------------------------------------- |
+| Typescript Knowledge Map |       | https://learntypescript.online/knowledge-map.html |
+
+
+
