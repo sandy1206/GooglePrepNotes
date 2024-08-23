@@ -4,5 +4,7 @@
   "textFontFamily": "JetBrains Mono NL",
   "enabledCssSnippets": [
     "Colored Sidebar Items"
-  ]
+  ],
+  "theme": "system",
+  "accentColor": ""
 }
