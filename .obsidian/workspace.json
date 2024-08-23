@@ -11,12 +11,8 @@
             "id": "626e61d22308e963",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Frontend/Typescript/Typescript.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Frontend/Typescript/Typescript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Frontend/Typescript/Typescript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02 - Frontend/Typescript/Typescript.md"
-              }
+              "state": {}
             }
           },
           {
@@ -176,12 +168,12 @@
   },
   "active": "626e61d22308e963",
   "lastOpenFiles": [
+    "02 - Frontend/Typescript/Typescript.md",
     "02 - Frontend/Typescript/Utility Types.md",
     "02 - Frontend/Typescript/Decorators.md",
     "02 - Frontend/Typescript/Generics.md",
     "02 - Frontend/Typescript/Core Concepts.md",
     "02 - Frontend/Typescript/Primitive Types.md",
-    "02 - Frontend/Typescript/Typescript.md",
     "02 - Frontend/Typescript/Fetch.md",
     "02 - Frontend/Typescript/something.md",
     "99 - Public/{{title}}.md",
