@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3fd11682e26341ea",
+        "id": "6a91f1cca0995423",
         "type": "tabs",
         "children": [
           {
-            "id": "626e61d22308e963",
+            "id": "8985ea87226963e4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Start.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Start.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Start.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Start.md"
+              }
             }
           },
           {
@@ -163,11 +171,16 @@
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "626e61d22308e963",
+  "active": "8985ea87226963e4",
   "lastOpenFiles": [
+    "99 - Public/{{title}}.md",
+    "99 - Public/Main Page.md",
+    "99 - Public/Help.md",
+    "02 - Frontend/Frontend.md",
     "02 - Frontend/Typescript/Typescript.md",
     "02 - Frontend/Typescript/Utility Types.md",
     "02 - Frontend/Typescript/Decorators.md",
@@ -176,9 +189,6 @@
     "02 - Frontend/Typescript/Primitive Types.md",
     "02 - Frontend/Typescript/Fetch.md",
     "02 - Frontend/Typescript/something.md",
-    "99 - Public/{{title}}.md",
-    "99 - Public/Help.md",
-    "99 - Public/Main Page.md",
     "Start.md",
     "08 - Articles/Articles.md",
     "07 - Interviews/Interviews.md",
@@ -186,7 +196,6 @@
     "05 - Networks/Networks.md",
     "04 - Object Oriented Designs/Object Oriented Designs.md",
     "03 - Backend/Backend.md",
-    "02 - Frontend/Frontend.md",
     "02 - Frontend/Javscript",
     "02 - Frontend/Javscript/Javascript.md",
     "02 - Frontend/Typescript",

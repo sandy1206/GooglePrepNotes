@@ -1,4 +1,3 @@
-----
 Date - 2024-08-22  |  Time - 11:42
 Tags: #frontend 
 
@@ -12,12 +11,5 @@ Tags: #frontend
 6. [[Security]]
 7. [[Accessibility]]
 8. [[System Design]]
-
-----
-### Overview
-
-| Topic | Name | Link |
-| ----- | ---- | ---- |
-|       |      |      |
 
 
