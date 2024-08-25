@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6a91f1cca0995423",
+        "id": "e0092beca34796aa",
         "type": "tabs",
         "children": [
           {
-            "id": "8985ea87226963e4",
+            "id": "09e644d9b05a0dbc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#flashcards",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,27 +171,35 @@
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-kanban:Create new board": false,
       "homepage:Open homepage": false
     }
   },
-  "active": "8985ea87226963e4",
+  "active": "09e644d9b05a0dbc",
   "lastOpenFiles": [
-    "99 - Public/{{title}}.md",
-    "99 - Public/Main Page.md",
-    "99 - Public/Help.md",
-    "02 - Frontend/Frontend.md",
+    "07 - Interviews/Interviews.md",
+    "01 - Data Structures & Algorithms/Algorithms/Searching.md",
+    "01 - Data Structures & Algorithms/Algorithms/Algorithms.md",
+    "07 - Interviews/Companies.md",
+    "01 - Data Structures & Algorithms/Data Structures & Algorithms.md",
+    "Start.md",
+    "02 - Frontend/Typescript/Primitive Types.md",
+    "02 - Frontend/Typescript/string.md",
     "02 - Frontend/Typescript/Typescript.md",
+    "02 - Frontend/Frontend.md",
+    "99 - Public/src/scratchpad.js.md",
+    "01 - Data Structures & Algorithms/Algorithms",
+    "Untitled",
+    "99 - Public/src",
+    "99 - Public/Main Page.md",
+    "99 - Public/{{title}}.md",
+    "99 - Public/src/Help.md",
     "02 - Frontend/Typescript/Utility Types.md",
     "02 - Frontend/Typescript/Decorators.md",
     "02 - Frontend/Typescript/Generics.md",
     "02 - Frontend/Typescript/Core Concepts.md",
-    "02 - Frontend/Typescript/Primitive Types.md",
     "02 - Frontend/Typescript/Fetch.md",
     "02 - Frontend/Typescript/something.md",
-    "Start.md",
     "08 - Articles/Articles.md",
-    "07 - Interviews/Interviews.md",
     "06 - DBMS/DBMS.md",
     "05 - Networks/Networks.md",
     "04 - Object Oriented Designs/Object Oriented Designs.md",
@@ -199,19 +207,10 @@
     "02 - Frontend/Javscript",
     "02 - Frontend/Javscript/Javascript.md",
     "02 - Frontend/Typescript",
-    "02 - Frontend/Premitive Types.md",
-    "01 - Data Structures & Algorithms/Data Structures & Algorithms.md",
-    "testing.md",
     "Tags",
     "99 - Public",
     "08 - Articles",
     "07 - Interviews",
-    "06 - DBMS",
-    "05 - Networks",
-    "04 - Object Oriented Designs",
-    "03 - Backend",
-    "02 - Frontend/Drawing 2024-08-22 09.53.56.excalidraw.md",
-    "99 - Excalidraw/Drawing 2024-08-22 09.53.35.excalidraw.md",
-    "Excalidraw/Drawing 2024-08-22 09.43.33.excalidraw.md"
+    "06 - DBMS"
   ]
 }
