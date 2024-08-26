@@ -82,3 +82,77 @@ let cache=new Map();
 ```
 
 ----
+
+### Group Anagram
+
+#### Question
+Given an array of strings `strs`, group **the anagrams** together. You can return the answer in **any order**.
+
+#### Approach
+1.  Sorting each String
+```
+create a new map to store the index of existing anagram group
+create a array to store result
+loop over array for each item
+		sort the string
+		check if string is available in map
+			if available get the index and push the str to index of result
+		if not set the str in map
+		and push into result
+
+return result array
+```
+ - [I] Time complexity - o(n)
+ - [I] Space Complexity - O(1)   
+
+#### Solution
+1. Sorting each String
+```js
+var groupAnagrams = function (strs) {
+    const map = new Map();
+	let result = [];
+    for (let str of strs) {
+      const sortedStr= str.split('').sort().join('');
+      if (map.has(sortedStr)) {
+          result[map.get(sortedStr)].push(str)
+      } else {
+           map.set(sortedStr, result.length);
+           result.push([str]);
+       }
+     }
+  return result;
+};
+```
+
+----
+
+### Top k elements
+
+#### Question
+Given an integer array `nums` and an integer `k`, return _the_ `k` _most frequent elements_.
+
+#### Approach
+1.  Map and Sort
+```
+create a map to store the count of occurances
+loop over array and store occurances in map
+create an array from and sort it
+slice top k elements and return
+```
+ - [I] Time complexity - o(n + k log n)
+ - [I] Space Complexity - O(n + k)  
+ 
+#### Solution
+1. Map and sort
+```js
+	var topKFrequent = function (nums, k) {
+    let map= new Map();
+    for(let i=0;i<nums.length;i++){
+        map.set(nums[i],(map.get(nums[i])||0)+1)
+    }
+    let sorted= Array.from(map.entries()).sort((a,b)=>b[1]-a[1]);
+    return sorted.slice(0,k).map(a=>a[0])
+};
+```
+
+----

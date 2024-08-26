@@ -6,10 +6,12 @@
 
 #### Approach
 1.  some
-```js
+```
 	
 ```
-
+ - [I] Time complexity - o(n)
+ - [I] Space Complexity - O(1)  
+ 
 #### Solution
 1. some
 ```js
