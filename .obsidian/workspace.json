@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "e0092beca34796aa",
+        "id": "3fd11682e26341ea",
         "type": "tabs",
         "children": [
           {
-            "id": "09e644d9b05a0dbc",
+            "id": "626e61d22308e963",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Start.md",
+                "file": "01 - Data Structures & Algorithms/Questions/Array/Array.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07f1fe5f21ef6383",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Data Structures & Algorithms/Questions/Array/Array.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#flashcards",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Start.md",
+                "file": "01 - Data Structures & Algorithms/Questions/Array/Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Start.md",
+                "file": "01 - Data Structures & Algorithms/Questions/Array/Array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Start.md"
+                "file": "01 - Data Structures & Algorithms/Questions/Array/Array.md"
               }
             }
           },
@@ -153,8 +166,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -171,46 +183,46 @@
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "homepage:Open homepage": false
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "09e644d9b05a0dbc",
+  "active": "07f1fe5f21ef6383",
   "lastOpenFiles": [
-    "07 - Interviews/Interviews.md",
+    "01 - Data Structures & Algorithms/Questions/Questions.md",
+    "01 - Data Structures & Algorithms/Questions/Array/Array.md",
+    "01 - Data Structures & Algorithms/Questions/Array/String.md",
+    "01 - Data Structures & Algorithms/Data Structures.md",
+    "99 - Public/Algo Question.md",
+    "99 - Public/Main Page.md",
+    "01 - Data Structures & Algorithms/Questions/Array",
+    "Untitled",
+    "01 - Data Structures & Algorithms/Data Structures & Algorithms.md",
+    "01 - Data Structures & Algorithms/Questions",
+    "01 - Data Structures & Algorithms/Data Structures",
+    "Start.md",
+    "99 - Public/src/Help.md",
+    "99 - Public/src",
+    "07 - Interviews/Companies.md",
     "01 - Data Structures & Algorithms/Algorithms/Searching.md",
     "01 - Data Structures & Algorithms/Algorithms/Algorithms.md",
-    "07 - Interviews/Companies.md",
-    "01 - Data Structures & Algorithms/Data Structures & Algorithms.md",
-    "Start.md",
-    "02 - Frontend/Typescript/Primitive Types.md",
-    "02 - Frontend/Typescript/string.md",
-    "02 - Frontend/Typescript/Typescript.md",
-    "02 - Frontend/Frontend.md",
-    "99 - Public/src/scratchpad.js.md",
     "01 - Data Structures & Algorithms/Algorithms",
-    "Untitled",
-    "99 - Public/src",
-    "99 - Public/Main Page.md",
-    "99 - Public/{{title}}.md",
-    "99 - Public/src/Help.md",
+    "99 - Public/Excalidraw/Drawing 2024-08-24 09.05.30.excalidraw.md",
+    "99 - Public/Excalidraw",
+    "99 - Excalidraw/Drawing 2024-08-24 09.03.30.excalidraw.md",
+    "99 - Excalidraw",
+    "02 - Frontend/Typescript/Typescript.md",
+    "02 - Frontend/Typescript/Primitive Types.md",
+    "string.md",
     "02 - Frontend/Typescript/Utility Types.md",
     "02 - Frontend/Typescript/Decorators.md",
     "02 - Frontend/Typescript/Generics.md",
     "02 - Frontend/Typescript/Core Concepts.md",
     "02 - Frontend/Typescript/Fetch.md",
     "02 - Frontend/Typescript/something.md",
+    "99 - Public/{{title}}.md",
+    "99 - Public/Help.md",
     "08 - Articles/Articles.md",
-    "06 - DBMS/DBMS.md",
-    "05 - Networks/Networks.md",
-    "04 - Object Oriented Designs/Object Oriented Designs.md",
-    "03 - Backend/Backend.md",
     "02 - Frontend/Javscript",
-    "02 - Frontend/Javscript/Javascript.md",
-    "02 - Frontend/Typescript",
-    "Tags",
-    "99 - Public",
-    "08 - Articles",
-    "07 - Interviews",
-    "06 - DBMS"
+    "02 - Frontend/Typescript"
   ]
 }
