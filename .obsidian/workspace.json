@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Data Structures & Algorithms/Questions/String/String.md",
+                "file": "01 - Data Structures & Algorithms/Questions/Array/Array.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Data Structures & Algorithms/Questions/String/String.md",
+                "file": "01 - Data Structures & Algorithms/Questions/Array/Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Data Structures & Algorithms/Questions/String/String.md",
+                "file": "01 - Data Structures & Algorithms/Questions/Array/Array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Data Structures & Algorithms/Questions/String/String.md"
+                "file": "01 - Data Structures & Algorithms/Questions/Array/Array.md"
               }
             }
           },
@@ -188,25 +188,27 @@
   "active": "09e644d9b05a0dbc",
   "lastOpenFiles": [
     "01 - Data Structures & Algorithms/Questions/Questions.md",
+    "01 - Data Structures & Algorithms/Data Structures & Algorithms.md",
+    "01 - Data Structures & Algorithms/Data Structures.md",
+    "02 - Frontend/Component Design/Component Design.md",
+    "02 - Frontend/Component Design",
+    "02 - Frontend/Frontend.md",
     "01 - Data Structures & Algorithms/Questions/Array/Array.md",
     "99 - Public/Algo Question.md",
+    "01 - Data Structures & Algorithms/Questions/String/String.md",
     "99 - Public/Main Page.md",
     "99 - Public/src/Help.md",
-    "01 - Data Structures & Algorithms/Questions/String/String.md",
     "01 - Data Structures & Algorithms/Questions/String",
     "01 - Data Structures & Algorithms/Algorithms/Algorithms.md",
     "01 - Data Structures & Algorithms/Algorithms/Searching.md",
     "Start.md",
     "01 - Data Structures & Algorithms/Questions/Array",
     "01 - Data Structures & Algorithms/Questions",
-    "01 - Data Structures & Algorithms/Data Structures.md",
     "07 - Interviews/Interviews.md",
     "07 - Interviews/Companies.md",
-    "01 - Data Structures & Algorithms/Data Structures & Algorithms.md",
     "02 - Frontend/Typescript/Primitive Types.md",
     "02 - Frontend/Typescript/string.md",
     "02 - Frontend/Typescript/Typescript.md",
-    "02 - Frontend/Frontend.md",
     "99 - Public/src/scratchpad.js.md",
     "01 - Data Structures & Algorithms/Algorithms",
     "Untitled",
@@ -217,10 +219,8 @@
     "02 - Frontend/Typescript/Generics.md",
     "02 - Frontend/Typescript/Core Concepts.md",
     "02 - Frontend/Typescript/Fetch.md",
-    "02 - Frontend/Typescript/something.md",
     "02 - Frontend/Javscript",
     "02 - Frontend/Typescript",
-    "Tags",
-    "99 - Public"
+    "Tags"
   ]
 }

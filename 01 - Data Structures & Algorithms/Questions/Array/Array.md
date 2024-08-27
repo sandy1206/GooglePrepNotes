@@ -156,3 +156,44 @@ slice top k elements and return
 ```
 
 ----
+
+
+### Product of array except self
+
+#### Question
+Given an integer array `nums`, return _an array_ `answer` _such that_ `answer[i]` _is equal to the product of all the elements of_ `nums` _except_ `nums[i]`.
+
+#### Approach
+1.  Left Pass and Right Pass
+```
+create an result arrya
+do a left pass by taking initial product as 1
+do a right pass by taking right product as 1;
+```
+ - [I] Time complexity - o(n)
+ - [I] Space Complexity - O(n)  
+ 
+#### Solution
+1. Left Pass and Right Pass
+```js
+var productExceptSelf = function (nums) {
+    let result=[];
+    let product=1;
+    let leftInd=0;
+    let rightInd=nums.length-1;
+    while(leftInd<nums.length){
+        result[leftInd]=product;
+        product*=nums[leftInd];
+        leftInd++;
+    }
+    product=1;
+    while(rightInd>=0){
+        result[rightInd]*=product;
+        product*=nums[rightInd];
+        rightInd--;
+    }
+    return result;
+};
+```
+
+----

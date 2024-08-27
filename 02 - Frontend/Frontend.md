@@ -11,5 +11,6 @@ Tags: #frontend
 6. [[Security]]
 7. [[Accessibility]]
 8. [[System Design]]
+9. [[Component Design]]
 
 
