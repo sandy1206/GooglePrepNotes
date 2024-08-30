@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e0092beca34796aa",
+        "id": "5e228ee531edb30f",
         "type": "tabs",
         "children": [
           {
-            "id": "09e644d9b05a0dbc",
+            "id": "e55731ebf95fe8cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Data Structures & Algorithms/Questions/Array/Array.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97a4bf5729544ee0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "99 - Public/Algo Question.md",
+                "file": "03 - Backend/System Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Data Structures & Algorithms/Questions/Array/Array.md",
+                "file": "03 - Backend/System Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Data Structures & Algorithms/Questions/Array/Array.md",
+                "file": "03 - Backend/System Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Data Structures & Algorithms/Questions/Array/Array.md"
+                "file": "03 - Backend/System Design.md"
               }
             }
           },
@@ -185,23 +173,28 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "09e644d9b05a0dbc",
+  "active": "e55731ebf95fe8cc",
   "lastOpenFiles": [
+    "03 - Backend/Characteristics.md",
+    "2024-08-29.md",
+    "03 - Backend/System Design.md",
+    "03 - Backend/Charactericts.md",
+    "03 - Backend/Backend.md",
+    "02 - Frontend/Frontend.md",
+    "Start.md",
     "01 - Data Structures & Algorithms/Questions/Questions.md",
     "01 - Data Structures & Algorithms/Data Structures & Algorithms.md",
+    "99 - Public/Algo Question.md",
+    "01 - Data Structures & Algorithms/Questions/Array/Array.md",
     "01 - Data Structures & Algorithms/Data Structures.md",
     "02 - Frontend/Component Design/Component Design.md",
     "02 - Frontend/Component Design",
-    "02 - Frontend/Frontend.md",
-    "01 - Data Structures & Algorithms/Questions/Array/Array.md",
-    "99 - Public/Algo Question.md",
     "01 - Data Structures & Algorithms/Questions/String/String.md",
     "99 - Public/Main Page.md",
     "99 - Public/src/Help.md",
     "01 - Data Structures & Algorithms/Questions/String",
     "01 - Data Structures & Algorithms/Algorithms/Algorithms.md",
     "01 - Data Structures & Algorithms/Algorithms/Searching.md",
-    "Start.md",
     "01 - Data Structures & Algorithms/Questions/Array",
     "01 - Data Structures & Algorithms/Questions",
     "07 - Interviews/Interviews.md",
@@ -215,10 +208,6 @@
     "99 - Public/src",
     "99 - Public/{{title}}.md",
     "02 - Frontend/Typescript/Utility Types.md",
-    "02 - Frontend/Typescript/Decorators.md",
-    "02 - Frontend/Typescript/Generics.md",
-    "02 - Frontend/Typescript/Core Concepts.md",
-    "02 - Frontend/Typescript/Fetch.md",
     "02 - Frontend/Javscript",
     "02 - Frontend/Typescript",
     "Tags"
