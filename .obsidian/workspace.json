@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5e228ee531edb30f",
+        "id": "12c0ee66e1f37f5f",
         "type": "tabs",
         "children": [
           {
-            "id": "e55731ebf95fe8cc",
+            "id": "e1b3b7825e54ca3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Backend/System Design.md",
+                "file": "02 - Frontend/Performance/Core Web Vitals.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Backend/System Design.md",
+                "file": "02 - Frontend/Performance/Core Web Vitals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Backend/System Design.md",
+                "file": "02 - Frontend/Performance/Core Web Vitals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Backend/System Design.md"
+                "file": "02 - Frontend/Performance/Core Web Vitals.md"
               }
             }
           },
@@ -173,15 +173,26 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e55731ebf95fe8cc",
+  "active": "e1b3b7825e54ca3f",
   "lastOpenFiles": [
-    "03 - Backend/Characteristics.md",
-    "2024-08-29.md",
-    "03 - Backend/System Design.md",
-    "03 - Backend/Charactericts.md",
-    "03 - Backend/Backend.md",
+    "99 - Public/good-cls-values.svg",
+    "99 - Public/a-diagram-depicting-inte-d2bec16a5952.svg",
+    "99 - Public/inp-desktop-v2.svg",
+    "99 - Public/Pasted image 20240902185104.png",
+    "99 - Public/good-lcp-values.svg",
+    "02 - Frontend/Performance/Performance.md",
+    "02 - Frontend/Performance/Core Web Vitals.md",
+    "99 - Public/good-fcp-values-18.svg",
+    "99 - Public/good-ttfb-values.svg",
+    "02 - Frontend/Performance",
+    "2024-09-02.md",
     "02 - Frontend/Frontend.md",
     "Start.md",
+    "03 - Backend/System Design.md",
+    "03 - Backend/Characteristics.md",
+    "2024-08-29.md",
+    "03 - Backend/Charactericts.md",
+    "03 - Backend/Backend.md",
     "01 - Data Structures & Algorithms/Questions/Questions.md",
     "01 - Data Structures & Algorithms/Data Structures & Algorithms.md",
     "99 - Public/Algo Question.md",
@@ -201,13 +212,8 @@
     "07 - Interviews/Companies.md",
     "02 - Frontend/Typescript/Primitive Types.md",
     "02 - Frontend/Typescript/string.md",
-    "02 - Frontend/Typescript/Typescript.md",
-    "99 - Public/src/scratchpad.js.md",
     "01 - Data Structures & Algorithms/Algorithms",
-    "Untitled",
     "99 - Public/src",
-    "99 - Public/{{title}}.md",
-    "02 - Frontend/Typescript/Utility Types.md",
     "02 - Frontend/Javscript",
     "02 - Frontend/Typescript",
     "Tags"
