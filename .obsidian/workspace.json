@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "12c0ee66e1f37f5f",
+        "id": "705b512a4b8b0ad9",
         "type": "tabs",
         "children": [
           {
-            "id": "e1b3b7825e54ca3f",
+            "id": "b9e7310ba96cf44f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "48be1feb5c17bab6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Frontend/Performance/Priority to resource.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#flashcards",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Frontend/Performance/Core Web Vitals.md",
+                "file": "02 - Frontend/Performance/Priority to resource.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Frontend/Performance/Core Web Vitals.md",
+                "file": "02 - Frontend/Performance/Priority to resource.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Frontend/Performance/Core Web Vitals.md"
+                "file": "02 - Frontend/Performance/Priority to resource.md"
               }
             }
           },
@@ -173,28 +186,35 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e1b3b7825e54ca3f",
+  "active": "48be1feb5c17bab6",
   "lastOpenFiles": [
+    "02 - Frontend/Performance/Performance.md",
+    "02 - Frontend/Performance/Image Performance.md",
+    "02 - Frontend/Performance/Priority to resource.md",
+    "02 - Frontend/Security/Cookie.md",
+    "02 - Frontend/Security/Security.md",
+    "03 - Backend/System Design.md",
+    "02 - Frontend/Frontend.md",
+    "02 - Frontend/Security/().md",
+    "99 - Public/Pasted image 20240903075523.png",
+    "99 - Public/Pasted image 20240903075302.png",
+    "02 - Frontend/Performance/Core Web Vitals.md",
+    "02 - Frontend/Security",
+    "Start.md",
     "99 - Public/good-cls-values.svg",
     "99 - Public/a-diagram-depicting-inte-d2bec16a5952.svg",
     "99 - Public/inp-desktop-v2.svg",
     "99 - Public/Pasted image 20240902185104.png",
     "99 - Public/good-lcp-values.svg",
-    "02 - Frontend/Performance/Performance.md",
-    "02 - Frontend/Performance/Core Web Vitals.md",
     "99 - Public/good-fcp-values-18.svg",
     "99 - Public/good-ttfb-values.svg",
     "02 - Frontend/Performance",
     "2024-09-02.md",
-    "02 - Frontend/Frontend.md",
-    "Start.md",
-    "03 - Backend/System Design.md",
     "03 - Backend/Characteristics.md",
     "2024-08-29.md",
     "03 - Backend/Charactericts.md",
     "03 - Backend/Backend.md",
     "01 - Data Structures & Algorithms/Questions/Questions.md",
-    "Start.md",
     "99 - Public/Algo Question.md",
     "01 - Data Structures & Algorithms/Questions/Array/Array.md",
     "01 - Data Structures & Algorithms/Data Structures & Algorithms.md",
@@ -203,23 +223,15 @@
     "01 - Data Structures & Algorithms/Data Structures.md",
     "02 - Frontend/Component Design/Component Design.md",
     "02 - Frontend/Component Design",
-    "02 - Frontend/Frontend.md",
     "01 - Data Structures & Algorithms/Questions/String/String.md",
     "99 - Public/Main Page.md",
     "99 - Public/src/Help.md",
     "01 - Data Structures & Algorithms/Questions/String",
-    "01 - Data Structures & Algorithms/Algorithms/Algorithms.md",
-    "01 - Data Structures & Algorithms/Algorithms/Searching.md",
     "01 - Data Structures & Algorithms/Questions/Array",
     "01 - Data Structures & Algorithms/Questions",
-    "07 - Interviews/Interviews.md",
-    "07 - Interviews/Companies.md",
-    "02 - Frontend/Typescript/Primitive Types.md",
-    "02 - Frontend/Typescript/string.md",
     "01 - Data Structures & Algorithms/Algorithms",
     "99 - Public/src",
     "02 - Frontend/Javscript",
-    "02 - Frontend/Typescript",
-    "Tags"
+    "02 - Frontend/Typescript"
   ]
 }
